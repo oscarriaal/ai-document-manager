@@ -28,7 +28,6 @@ Para empezar a trabajar en el proyecto, necesitas configurar tus conexiones.
 > **⚠️ IMPORTANTE - Seguridad**: 
 > El archivo `.env` contiene contraseñas reales e información confidencial. **NUNCA debe ser comiteado ni subido a GitHub** (por eso está en el `.gitignore`). 
 > 
-> Si necesitas compartir credenciales con un compañero, utiliza un gestor de contraseñas seguro (como Bitwarden Send o 1Password) o envíaselo temporalmente por un canal cifrado, ¡nunca pases el `.env` crudo por chats públicos!
 
 ## 📊 Arquitectura de Base de Datos
 
